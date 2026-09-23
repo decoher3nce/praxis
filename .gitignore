@@ -1,0 +1,8 @@
+# Local Claude Code session settings (machine-specific)
+.claude/
+
+# Non-toolkit scratch / working data
+data/
+
+# OS cruft
+.DS_Store
