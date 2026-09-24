@@ -11,8 +11,8 @@
 - *Higher:* Steps into disagreement early and keeps it about the problem. Digs for the interest beneath the position. Designs outcomes both sides can own. Defers gracefully when someone else should lead. Repairs and strengthens relationships through the friction.
 
 **Learning path.**
-- *Read:* a short piece on interest-based negotiation (e.g., *Getting to Yes*), productive conflict, or followership. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on healthy conflict, difficult conversations, or collaboration. `[verify]`
+- *Read:* Roger Fisher, William Ury, and Bruce Patton, *Getting to Yes*: interest-based negotiation, i.e., separating the people from the problem and focusing on interests, not positions.
+- *Watch:* William Ury, "The walk from 'no' to 'yes'" (TEDxMidwest, 2010): conflict resolution, "the third side," and "going to the balcony" to gain perspective.
 - *Other:* observe someone skilled at defusing or resolving a tense disagreement; note exactly what they do.
 
 **Activity sequence.**

@@ -11,8 +11,8 @@
 - *Higher:* Delegates the *decision* with scaffolding and a safety net. 1:1s spend real time on the person's development. Treats a recoverable mistake as paid-for tuition. Gives and asks for feedback in near-real-time. Transmits the "feel," not just the procedure.
 
 **Learning path.**
-- *Read:* a short piece on the difference between delegation and abdication, coaching vs. telling, or behavior-based feedback (e.g., the SBI model). `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on how leaders grow other leaders, or the cost of being the smartest person in the room. `[verify]`
+- *Read:* Center for Creative Leadership, the SBI (Situation-Behavior-Impact) feedback model: how to keep developmental feedback specific and factual (what happened, the exact behavior, its impact) rather than personal.
+- *Watch:* Liz Wiseman and Greg McKeown, "How the Best Leaders Make Everyone Smarter" (Talks at Google): multipliers vs. diminishers, and the cost of needing to be the smartest person in the room.
 - *Other:* a 20-minute conversation with a leader you admire about how *they* were developed.
 
 **Activity sequence.**

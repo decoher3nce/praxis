@@ -11,8 +11,8 @@
 - *Higher:* Commands attention by being settled rather than loud. Projects grounded calm that the room borrows. Reads and matches the energy the moment needs. Makes the person in front of them feel like the only one there.
 
 **Learning path.**
-- *Read:* a short piece on executive presence, or on grounding and attention. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk by a performer, actor, or orator on commanding a room, or on body language and presence. `[verify]`
+- *Read:* Sylvia Ann Hewlett, *Executive Presence: The Missing Link Between Merit and Success* (2014): the three components of presence, gravitas, communication, and appearance.
+- *Watch:* Julian Treasure, "How to speak so that people want to listen" (TEDGlobal 2013): the voice as an instrument, the "seven deadly sins" of speaking, and how to command attention.
 - *Other:* watch someone with strong presence in a high-stakes moment; note what they do with pace, stillness, voice, and eye contact.
 
 **Activity sequence.**

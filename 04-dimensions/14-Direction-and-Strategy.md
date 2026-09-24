@@ -11,8 +11,8 @@
 - *Higher:* Steps back to ask whether the work serves the goal before investing. Names trade-offs explicitly and defends what they're deprioritizing. Communicates direction so clearly the team can self-orient. Reasons about second- and third-order effects.
 
 **Learning path.**
-- *Read:* a short piece on strategy as choosing what *not* to do, or on connecting work to purpose. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on strategic thinking, vision, or systems-level leadership. `[verify]`
+- *Read:* Michael E. Porter, "What Is Strategy?" *Harvard Business Review* (November-December 1996): strategy as trade-offs, i.e., that it is as much about what you choose *not* to do as what you do.
+- *Watch:* Simon Sinek, "How great leaders inspire action" (TEDxPugetSound, 2009): the Golden Circle and starting with "why," i.e., connecting the work to its purpose.
 - *Other:* sit in on a planning or program-strategy discussion a level or two up, purely to observe how direction gets framed.
 
 **Activity sequence.**

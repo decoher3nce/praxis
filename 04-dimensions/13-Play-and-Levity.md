@@ -11,8 +11,8 @@
 - *Higher:* Lightens the load at the right moment without minimizing what matters. Holds their own ego loosely. Builds a culture where play and rigor coexist. Laughs at their own fumbles first. Knows precisely when *not* to be funny.
 
 **Learning path.**
-- *Read:* a short piece on humor and levity at work, or play as a driver of creativity and team resilience. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on humor, play, or seriousness vs. solemnity in leadership. `[verify]`
+- *Read:* Jennifer Aaker and Naomi Bagdonas, *Humor, Seriously* (2021): why humor builds trust and creativity at work, and how anyone can develop it as a skill.
+- *Watch:* Stuart Brown, "Play is more than just fun" (TED 2008): play as a driver of creativity, learning, and resilience across a lifetime.
 - *Other:* watch a leader who uses humor well under pressure; note *when* they deploy it and when they hold back.
 
 **Activity sequence.**
