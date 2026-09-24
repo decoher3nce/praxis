@@ -79,5 +79,5 @@ Capture the pre/post quadrant and the movement in `07-tracking-template.md` for 
 
 ## References
 
-- **Johari Window** (Joseph Luft and Harrington Ingham): the self-versus-other awareness quadrants this 2×2 adapts for coaching. `[verify]`
-- **360-degree feedback:** the blind-spot and hidden-strength dynamics come from the gap between how a person rates themselves and how others rate them. `[verify]`
+- **Johari Window** (Joseph Luft and Harrington Ingham, 1955): the self-versus-other awareness quadrants this 2×2 adapts for coaching.
+- **360-degree feedback:** the blind-spot and hidden-strength dynamics come from the gap between how a person rates themselves and how others rate them.

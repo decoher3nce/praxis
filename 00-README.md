@@ -69,9 +69,9 @@ Where this kit recommends a specific reading or talk, it is marked `[verify]`. C
 
 ## References
 
-- **Ralph Nader:** the "produce more leaders, not more followers" framing that anchors the system's telos. *(widely attributed quotation, `[verify]`)*
-- **The Leadership Circle Profile:** the leadership-360 instrument whose competency model seeded the dimension synthesis. Bob Anderson / The Leadership Circle (leadershipcircle.com). `[verify]`
-- **Gallup Q12:** Gallup's twelve-item employee-engagement survey; its "someone at work cares about me as a person" item is the basis for the *Caring* dimension. See Gallup's Q12 materials and *First, Break All the Rules* (Buckingham & Coffman). `[verify]`
+- **Ralph Nader:** the "produce more leaders, not more followers" line that anchors the system's telos (widely attributed to Nader).
+- **The Leadership Circle Profile:** the leadership-360 instrument whose competency model seeded the dimension synthesis. Bob Anderson and The Leadership Circle (leadershipcircle.com).
+- **Gallup Q12:** Gallup's twelve-item employee-engagement survey; its "someone at work cares about me as a person" item is the basis for the *Caring* dimension. See *First, Break All the Rules* (Marcus Buckingham and Curt Coffman, 1999).
 
 ---
 

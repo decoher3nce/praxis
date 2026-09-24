@@ -117,10 +117,10 @@ Things to say:
 - **Go multimodal, lightly.** Offer a mix (something to read, something to watch, something to do or observe) and let the student take in ideas the way that actually works for them. Skip whatever doesn't help.
 - **Anchor every activity to real, current work.** Practice has to land on something live: an upcoming meeting, a real decision, an actual deliverable. If an activity has no real place to happen, redesign it until it does.
 - **Sequence by the science of learning.** The activity arc in each dimension file is built on a few robust findings; preserve their spirit:
-  - *Progressive challenge / deliberate practice*: low-stakes reps before the visible stretch, each rep just past comfortable (Ericsson, *deliberate practice*). `[verify]`
-  - *Spacing*: spread practice across check-ins rather than cramming; spaced practice outlasts massed practice. `[verify]`
-  - *Retrieval*: have reflection reconstruct what happened from memory rather than reread notes; retrieval is what consolidates learning. `[verify]`
-- **Use a coaching frame for the conversation.** A simple structure such as GROW (Goal · Reality · Options · Will) keeps you asking rather than telling. `[verify]`
+  - *Progressive challenge / deliberate practice*: low-stakes reps before the visible stretch, each rep just past comfortable (Ericsson; see References).
+  - *Spacing*: spread practice across check-ins rather than cramming; spaced practice outlasts massed practice.
+  - *Retrieval*: have reflection reconstruct what happened from memory rather than reread notes; retrieval is what consolidates learning.
+- **Use a coaching frame for the conversation.** A simple structure such as GROW (Goal, Reality, Options, Will) keeps you asking rather than telling. See References.
 
 **What to say when you present it:**
 - *"Here's a small, curated path, not a syllabus. A couple of things to take in, and one or two things to actually try on real work."*
@@ -198,8 +198,8 @@ That hand-off, a student becoming a coach, is Praxis succeeding. More leaders, n
 
 ## References
 
-- **Socratic method / maieutics:** teaching by question rather than lecture; drawing out the learner's own reasoning. See Plato's early dialogues (e.g., *Meno*). `[verify]`
-- **GROW model:** a widely used coaching conversation structure (Goal · Reality · Options · Will), associated with Graham Alexander, Alan Fine, and John Whitmore (*Coaching for Performance*). `[verify]`
-- **Deliberate practice:** K. Anders Ericsson on how expert performance is built through targeted, progressively harder practice (*Peak*, Ericsson & Pool). `[verify]`
-- **Spaced & retrieval practice:** cognitive-science findings on durable learning; see *Make It Stick* (Brown, Roediger, McDaniel). `[verify]`
-- **Ralph Nader:** the "produce more leaders, not more followers" framing behind graduation. *(widely attributed; `[verify]`)*
+- **Socratic method / maieutics:** teaching by question rather than lecture; drawing out the learner's own reasoning. See Plato's early dialogues (e.g., *Meno*).
+- **GROW model:** a widely used coaching conversation structure (Goal, Reality, Options, Will), developed in the 1980s by John Whitmore, Graham Alexander, and Alan Fine; described in Whitmore's *Coaching for Performance* (1992).
+- **Deliberate practice:** K. Anders Ericsson on how expert performance is built through targeted, progressively harder practice (*Peak*, Ericsson and Pool, 2016).
+- **Spaced and retrieval practice:** cognitive-science findings on durable learning; see *Make It Stick* (Brown, Roediger, and McDaniel, 2014).
+- **Ralph Nader:** the "produce more leaders, not more followers" line behind graduation (widely attributed to Nader).

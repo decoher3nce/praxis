@@ -122,7 +122,7 @@ One last time, because it's the whole thing: we are not here to make you a bette
 
 ## References
 
-- **Ralph Nader:** the "produce more leaders, not more followers" framing that anchors the system. *(widely attributed quotation, `[verify]`)*
-- **VUCA:** Volatile, Uncertain, Complex, Ambiguous; a framing that originated in U.S. Army War College leadership education and was later adopted in strategy and leadership. `[verify]`
-- **The science of learning:** deliberate practice, spaced practice, and retrieval practice; fuller citations in `01-coach-guide.md` (Ericsson; *Make It Stick*). `[verify]`
+- **Ralph Nader:** the "produce more leaders, not more followers" line that anchors the system (widely attributed to Nader).
+- **VUCA:** Volatile, Uncertain, Complex, Ambiguous; a framing that originated at the U.S. Army War College in the late 1980s (drawing on Bennis and Nanus) and was later widely adopted in strategy and leadership.
+- **The science of learning:** deliberate practice, spaced practice, and retrieval practice; fuller citations in `01-coach-guide.md` (Ericsson; *Make It Stick*).
 - **Praxis:** the idea of action refined by reflection is an old one in philosophy and education; this system uses its plain meaning (putting ideas into practice), not any single author's version.

@@ -68,5 +68,5 @@ A decline, whether of the whole engagement, of a cycle, or of timing, must be ge
 
 ## References
 
-- **Adult learning / andragogy** (Malcolm Knowles): adults engage when learning is relevant to a real, current need and is self-directed, which is why the relevance check matters. `[verify]`
+- **Adult learning / andragogy** (Malcolm Knowles): adults engage when learning is relevant to a real, current need and is self-directed, which is why the relevance check matters.
 - **Readiness and timing:** the relevance-plus-bandwidth gate is specific to Praxis; the underlying idea (development lands only when the learner is both ready and has capacity) is common to coaching practice. See also the shared references in `00-README.md`.
