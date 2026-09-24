@@ -11,8 +11,8 @@
 - *Higher:* Perceives quality finely and explains it in transferable terms. Holds a high bar where it matters and relaxes it where it doesn't. Protects the standard when the schedule pushes back. Grows the discernment of the people around them.
 
 **Learning path.**
-- *Read:* a short piece on taste, craftsmanship, or the development of expert judgment in a domain. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk by a master in any craft (design, cooking, music, engineering) on how they tell good from great. `[verify]`
+- *Read:* Paul Graham, "Taste for Makers" (2002): the argument that taste is cultivated judgment rather than personal whim, with concrete properties of good design.
+- *Watch:* Ira Glass, "The Gap": a storytelling master on why your taste outruns your skill for years, and why sheer volume of work is how you close the gap.
 - *Other:* sit with someone whose technical judgment you trust and have them walk you through *why* a piece of work is excellent or not.
 
 **Activity sequence.**

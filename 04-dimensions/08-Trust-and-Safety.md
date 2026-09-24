@@ -11,8 +11,8 @@
 - *Higher:* Consistent and reliable, so trust compounds. Treats an early-surfaced problem as a gift and says so. Models fallibility by owning their own mistakes first. Explicitly invites the dissenting view. Runs blameless reviews focused on the system, not the scapegoat.
 
 **Learning path.**
-- *Read:* a short piece on psychological safety (e.g., Amy Edmondson's research) or on the components of trust. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on psychological safety or how high-reliability teams handle failure. `[verify]`
+- *Read:* Charles Duhigg, "What Google Learned From Its Quest to Build the Perfect Team," *The New York Times Magazine* (February 2016): Project Aristotle's finding that psychological safety mattered more than who was on the team.
+- *Watch:* Amy Edmondson, "Building a psychologically safe workplace" (TEDxHGSE, 2014): what psychological safety is, why people stay silent, and why it has to pair with accountability.
 - *Other:* ask your team (anonymously if needed) "what's something you've hesitated to tell me?" and respond in a way that proves it was safe.
 
 **Activity sequence.**

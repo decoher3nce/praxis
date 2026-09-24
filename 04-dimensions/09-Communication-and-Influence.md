@@ -11,8 +11,8 @@
 - *Higher:* Reads the audience and adjusts altitude. Leads with the conclusion and the "so what." Translates technical risk into terms the decision-maker cares about. Does the influence work *before* the meeting. Moves people by making the right thing easy to see.
 
 **Learning path.**
-- *Read:* a short piece on audience-tailored communication, leading with the bottom line (e.g., BLUF), or influence without authority. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on clear technical communication or persuasion. `[verify]`
+- *Read:* Robert Cialdini, "Harnessing the Science of Persuasion," *Harvard Business Review* (October 2001): the six principles of influence (reciprocity, liking, social proof, authority, consistency, scarcity) and how to use them ethically.
+- *Watch:* Nancy Duarte, "The secret structure of great talks" (TEDxEast, 2011): the "what is / what could be" structure behind talks that move an audience to act.
 - *Other:* watch a leader who communicates well in a real meeting; note specifically *how* they pitched it to that audience.
 
 **Activity sequence.**

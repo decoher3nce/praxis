@@ -11,8 +11,8 @@
 - *Higher:* Perceives the anomaly early and takes it seriously. Pauses to frame before the team charges off. Reasons about the whole system and downstream effects. Holds ambiguity open long enough to make sense of it, then gives the team a clear read.
 
 **Learning path.**
-- *Read:* a short piece on sensemaking (e.g., Weick), situational awareness, or systems thinking. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on noticing, perception, or thinking in systems. `[verify]`
+- *Read:* Karl E. Weick, "The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster," *Administrative Science Quarterly* (1993): how a crew's shared grasp of the situation, and their roles, disintegrated at once, and the four sources of resilience that guard against it.
+- *Watch:* Daniel Simons, "The Monkey Business Illusion": the selective-attention demonstration of inattentional blindness, i.e., how much you miss while focused on the wrong thing.
 - *Other:* spend 30 minutes observing a process or meeting with the single job of noticing what's *not* being said or seen.
 
 **Activity sequence.**

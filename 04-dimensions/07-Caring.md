@@ -11,8 +11,8 @@
 - *Higher:* Knows their people as individuals with lives. Catches the off-day and checks in. Will spend something real to protect a person's wellbeing. Tailors care to what each person actually values, which requires knowing them.
 
 **Learning path.**
-- *Read:* a short piece on the link between manager care and engagement, or on leading the whole person. `[verify: describe topic if no confident specific source; the Gallup Q12 research is a strong anchor]`
-- *Watch:* a talk on care, belonging, or human-centered leadership. `[verify]`
+- *Read:* Gallup, Q12 Item 5 ("My supervisor, or someone at work, seems to care about me as a person"): the engagement research linking felt care to safety, retention, and performance. (See Gallup's Q12 materials.)
+- *Watch:* Simon Sinek, "Why good leaders make you feel safe" (TED 2014): leadership as taking care of the people in your charge, and the "circle of safety."
 - *Other:* in your next few 1:1s, spend the first ten minutes on the person, not the work, and just listen.
 
 **Activity sequence.**
