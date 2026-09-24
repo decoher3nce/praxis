@@ -11,8 +11,8 @@
 - *Higher:* Notices their own state and patterns in real time. Knows their triggers and works around them. Goes looking for the feedback others are afraid to give them, and changes in response. Holds their self-picture lightly enough to revise it.
 
 **Learning path.**
-- *Read:* a short piece on the gap between self-perception and how others see us, or on the difference between internal and external self-awareness. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on self-awareness as a leadership foundation. `[verify]`
+- *Read:* Tasha Eurich, "What Self-Awareness Really Is (and How to Cultivate It)," *Harvard Business Review* (January 2018): the distinction between internal and external self-awareness, and why introspection alone doesn't produce it.
+- *Watch:* Tasha Eurich, "Increase your self-awareness with one simple fix" (TEDxMileHigh): why ~95% of people think they're self-aware while only 10–15% are, and the shift from "why" to "what" questions.
 - *Other:* ask three people who see you in different contexts the same question ("what's one thing I do that I might not realize?") and just listen.
 
 **Activity sequence.**

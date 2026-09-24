@@ -11,8 +11,8 @@
 - *Higher:* Notices the reaction rising and chooses the response. Steadies the room precisely when it's hardest. Treats a setback as information, not catastrophe. Paces their energy so they're still standing at the end of the campaign.
 
 **Learning path.**
-- *Read:* a short piece on the space between stimulus and response, or on physiological self-regulation under stress. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on composure, performing under pressure, or how leaders' emotions are contagious. `[verify]`
+- *Read:* Stephen R. Covey, *The 7 Habits of Highly Effective People*, Habit 1 ("Be Proactive"): the space between stimulus and response and the freedom to choose the response (Covey's framing of a principle he draws from Viktor Frankl).
+- *Watch:* Kelly McGonigal, "How to make stress your friend" (TEDGlobal 2013): the physiology of the stress response and how your belief about stress changes its effect on the body.
 - *Other:* watch someone you consider unshakeable handle a real high-pressure moment; note specifically *what they do* with their body, voice, and timing.
 
 **Activity sequence.**

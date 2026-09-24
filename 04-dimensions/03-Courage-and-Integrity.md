@@ -11,8 +11,8 @@
 - *Higher:* Names the hard thing, with care but without flinching. Holds the line on values under pressure. Does what they said they'd do, especially when it costs them. Models the consistency that makes them trustworthy.
 
 **Learning path.**
-- *Read:* a short piece on courageous candor, raising undiscussables, or values-based leadership under pressure. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on moral courage or speaking up when it's risky. `[verify]`
+- *Read:* Brené Brown, *Dare to Lead* (2018): "rumbling with vulnerability" and living into your values, i.e., the courage to have the tough, values-based conversation. (Start with the "Rumbling with Vulnerability" section.)
+- *Watch:* Margaret Heffernan, "Dare to disagree" (TEDGlobal 2012): why ~85% of executives stay silent on issues they can see, and why good disagreement is central to progress.
 - *Other:* interview a leader you respect about the hardest stand they ever took and what it cost them.
 
 **Activity sequence.**

@@ -11,8 +11,8 @@
 - *Higher:* Calibrates rigor to stakes and reversibility: fast on two-way doors, careful on one-way doors. Names assumptions and the disconfirming evidence they looked for. Decides under uncertainty and owns it. Makes the reasoning visible so others can learn and challenge it.
 
 **Learning path.**
-- *Read:* a short piece on reversible vs. irreversible decisions (one-way vs. two-way doors), or on separating decision quality from outcome. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on decision-making under uncertainty or cognitive bias in expert judgment. `[verify]`
+- *Read:* Jeff Bezos, 2015 Amazon shareholder letter: Type 1 vs. Type 2 (one-way- vs. two-way-door) decisions and matching deliberation to reversibility. Pair with Annie Duke, *Thinking in Bets* (2018) on "resulting," the error of judging a decision by its outcome.
+- *Watch:* Daniel Kahneman, "Thinking, Fast and Slow" (Talks at Google): System 1 / System 2 thinking and the cognitive biases that distort expert judgment under uncertainty.
 - *Other:* interview a leader you respect about a hard call they got right and one they got wrong, focusing on the reasoning, not the result.
 
 **Activity sequence.**
