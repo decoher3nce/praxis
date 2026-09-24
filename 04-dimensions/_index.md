@@ -64,16 +64,16 @@ The four groupings (self / thinking / people / work) are a convenience for findi
    2. **Why it matters here:** tie to the Nader telos (does strength here help *produce more leaders*?) where natural.
    3. **Behavioral indicators:** observable behaviors, so you rate actions not vibes.
    4. **Lower vs. higher:** concrete contrasting examples, no judgment language.
-   5. **Learning path:** 1 reading `[verify]`, 1 talk/video `[verify]`, 1 other modality. Light, not homework.
+   5. **Learning path:** 1 reading, 1 talk/video, 1 other modality; name specific sources and mark any you haven't confirmed with `[verify]`. Light, not homework.
    6. **Activity sequence:** the seven-step arc: Frame & baseline → Input → Observe → Small experiment → Visible stretch → Reflect & integrate → Re-rate & decide. Mark low-stakes vs. visible-stretch.
    7. **Coach talking points:** 4–6 prompts specific to coaching *this* dimension, including the hard conversation.
    8. **Connected dimensions:** the web threads: which dimensions share skills with this one, and how.
-3. Mark every specific named resource with `[verify]`. Never fabricate a title, author, or URL; describe the topic and type if you don't have a confident source.
+3. Name specific sources, and mark any you haven't yet confirmed with `[verify]`. Never fabricate a title, author, or URL; describe the topic and type if you don't have a confident source.
 4. Update the tables above.
 
 ---
 
 ## References / Sources
 
-- Each dimension's own sources are listed in its **Learning path** section (marked `[verify]` until a coach confirms a specific reading, talk, or resource).
+- Each dimension's own sources are listed in its **Learning path** section (a specific reading and talk, each confirmed to exist; a coach who swaps in a different resource should mark it `[verify]` until confirmed).
 - The 18-dimension set was synthesized from The Leadership Circle 360, the Gallup engagement research (the *Caring* dimension), and a wide cross-domain leadership brainstorm; full citations are in `00-README.md`.

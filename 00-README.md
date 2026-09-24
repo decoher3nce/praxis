@@ -65,7 +65,7 @@ This is the most important usage note. Praxis is flexible by design. The coach a
 
 ## On sources
 
-Where this kit recommends a specific reading or talk, it is marked `[verify]`. Confirm it exists and is current before you use it. Where no confident specific source exists, the kit describes the *topic and type* of resource instead, so you can find a good current one. Nothing here fabricates a title, author, or URL. A described gap is better than a confident hallucination.
+Each dimension's Learning path names a specific reading and a specific talk, and each was checked to exist and be correctly attributed before it went in. Nothing here fabricates a title, author, or URL. If you swap in your own resource, mark it `[verify]` and confirm it exists and is current before you use it. A described gap is always better than a confident hallucination.
 
 ## References
 
