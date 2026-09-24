@@ -11,8 +11,8 @@
 - *Higher:* Produces original options and frames new problems. Shields early ideas long enough to develop. Actively cultivates others' generativity. Knows when to open up wide and when to narrow down.
 
 **Learning path.**
-- *Read:* a short piece on creativity, idea generation, or separating divergent from convergent thinking. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on creativity, innovation, or how new ideas actually form. `[verify]`
+- *Read:* Teresa Amabile, "How to Kill Creativity," *Harvard Business Review* (September-October 1998): how everyday management erodes the intrinsic motivation that drives creativity, and its three components (expertise, creative thinking, motivation).
+- *Watch:* Steven Johnson, "Where good ideas come from" (TED 2010): how breakthroughs actually form, through slow hunches, liquid networks, and the adjacent possible.
 - *Other:* talk to someone known for inventive work about how they generate and protect early ideas.
 
 **Activity sequence.**

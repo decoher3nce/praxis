@@ -11,8 +11,8 @@
 - *Higher:* Closes the loop: every commitment has an owner, a date, and follow-through. Catches drift early and adjusts. Clears obstacles before they stall the team. Protects focus, and delivers in a way the team could repeat without being ground down.
 
 **Learning path.**
-- *Read:* a short piece on execution discipline, closing the knowing-doing gap, or sustainable pace. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on getting things done or operational excellence without burnout. `[verify]`
+- *Read:* Jeffrey Pfeffer and Robert I. Sutton, *The Knowing-Doing Gap* (2000): why organizations so often fail to act on what they already know, and how the best close the gap between knowledge and action.
+- *Watch:* Tony Schwartz, "Managing Your Energy for Sustainable High Performance": the "manage your energy, not your time" principle, and cycling between spending and renewing energy to perform without burning out.
 - *Other:* shadow how an operationally strong leader runs their tracking and follow-up rhythm.
 
 **Activity sequence.**

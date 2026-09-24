@@ -11,8 +11,8 @@
 - *Higher:* Reads the shift early and re-plans without defensiveness. Brings people the reasoning and a real role in shaping the response. Acknowledges the human cost openly. Stays a stable reference point while the work flexes: adaptable, not unmoored.
 
 **Learning path.**
-- *Read:* a short piece on leading through change, managing the *transition* (not just the change), or strong-opinions-loosely-held. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on adaptability, change leadership, or navigating uncertainty. `[verify]`
+- *Read:* William Bridges, *Managing Transitions*: the distinction between change (situational) and transition (the psychological process people go through), and its three phases, ending, neutral zone, and new beginning.
+- *Watch:* Eddie Obeng, "Smart failure for a fast-changing world" (TEDGlobal 2012): leading when the world changes faster than we can learn, and why it takes a culture of "smart failure."
 - *Other:* talk to someone who led a team through a hard change about what they'd do differently.
 
 **Activity sequence.**

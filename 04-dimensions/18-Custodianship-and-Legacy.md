@@ -11,8 +11,8 @@
 - *Higher:* Stewards standards and knowledge for the long term. Actively captures and hands down the tacit "why." Weighs long-horizon health in decisions. Grows successors who will steward in turn. Leaves the craft and the institution stronger than they found it.
 
 **Learning path.**
-- *Read:* a short piece on stewardship, institutional knowledge transfer, or long-term thinking / legacy in leadership. `[verify: describe topic if no confident specific source]`
-- *Watch:* a talk on stewardship, generational thinking, or preserving craft and institutional knowledge. `[verify]`
+- *Read:* Peter Block, *Stewardship: Choosing Service Over Self-Interest*: stewardship as the willingness to be accountable for the well-being of the larger whole, operating in service rather than control.
+- *Watch:* Roman Krznaric, "How to be a good ancestor" (TED 2020): trading short-term mindsets for long-term thinking, and our responsibility to the generations who inherit what we build.
 - *Other:* interview a respected senior figure (or retiree) about the knowledge they fear is being lost, and capture it.
 
 **Activity sequence.**
