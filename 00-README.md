@@ -46,6 +46,7 @@ Praxis runs as a repeating engagement. The coach drives steps 1–3; steps 4–7
 | `06-session-templates.md` | Fill-in templates for contracting, check-in, and closing sessions. |
 | `07-tracking-template.md` | Optional blank log for a single coaching cycle. |
 | `08-intro-lecture.md` | Introductory lecture on the dimensions, VUCA, lifelong learning, and entry doorways, for onboarding both coaches and students. |
+| `09-reading-bank.md` | Optional bank of books mapped to the dimensions, for a coach who wants a deeper input to offer in Phase 4. |
 
 **A suggested first pass:** read `08-intro-lecture.md` for the orientation, then `01-coach-guide.md` end to end, skim a few dimension files in `04-dimensions/` (start with `_index.md`), and read the 2×2 spec in `05-reflection-2x2.md`. That's enough to run a first contracting conversation.
 
