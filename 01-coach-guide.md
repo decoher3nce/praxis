@@ -127,7 +127,7 @@ Things to say:
 - *"Which of these fits how you learn? Skip the rest."*
 - *"Where on your actual plate could the practice happen?"*
 
-> **This section is still developing.** Over time, the `04-dimensions/` files will grow a deeper bank of suggested readings, video clips, and references for you to draw from, and this guidance will expand with them: more concrete research, more worked examples of well-built paths. For now the principle holds: curate a tailored strategy, don't assign a stack.
+> **This section is still developing.** Over time, the `04-dimensions/` files will grow a deeper bank of suggested readings, video clips, and references for you to draw from, and this guidance will expand with them: more concrete research, more worked examples of well-built paths. A first bank of books by dimension is in `09-reading-bank.md`. For now the principle holds: curate a tailored strategy, don't assign a stack.
 
 ---
 
