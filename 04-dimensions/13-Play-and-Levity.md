@@ -11,18 +11,20 @@
 - *Higher:* Lightens the load at the right moment without minimizing what matters. Holds their own ego loosely. Builds a culture where play and rigor coexist. Laughs at their own fumbles first. Knows precisely when *not* to be funny.
 
 **Learning path.**
-- *Read:* Jennifer Aaker and Naomi Bagdonas, *Humor, Seriously* (2021): why humor builds trust and creativity at work, and how anyone can develop it as a skill.
-- *Watch:* Stuart Brown, "Play is more than just fun" (TED 2008): play as a driver of creativity, learning, and resilience across a lifetime.
-- *Other:* watch a leader who uses humor well under pressure; note *when* they deploy it and when they hold back.
+- *Read (education):* Jennifer Aaker and Naomi Bagdonas, *Humor, Seriously* (2021): why humor builds trust and creativity at work, and how anyone can develop it as a skill.
+- *Watch (education):* Stuart Brown, "Play is more than just fun" (TED 2008): play as a driver of creativity, learning, and resilience across a lifetime.
+- *Other (exposure):* watch a leader who uses humor well under pressure; note *when* they deploy it and when they hold back.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Recall a tense moment: could a touch of lightness have helped, or would it have hurt? *(low-stakes)*
-2. **Input.** Engage the learning path. *(low-stakes)*
-3. **Observe.** For a week, notice the emotional temperature of your team's moments, and where levity is present or conspicuously absent. *(low-stakes)*
-4. **Small experiment.** In one tense-but-low-stakes moment, lighten it deliberately (a self-deprecating aside, a bit of warmth) and watch what happens to the room. *(low-stakes)*
-5. **Visible stretch.** In one genuinely loaded situation, use well-judged levity to release tension *without* minimizing the stakes, and read carefully whether it lands. Or: visibly laugh at your own mistake to make it safe for others. *(visible stretch)*
-6. **Reflect & integrate.** From memory: where did lightness help, and where would it have been wrong? What did it do to safety and energy? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Recall a tense moment: could a touch of lightness have helped, or would it have hurt? *(low-stakes · exposure)*
+2. **Input.** Engage the learning path. *(low-stakes · education)*
+3. **Observe.** For a week, notice the emotional temperature of your team's moments, and where levity is present or conspicuously absent. *(low-stakes · experience)*
+4. **Small experiment.** In one tense-but-low-stakes moment, lighten it deliberately (a self-deprecating aside, a bit of warmth) and watch what happens to the room. *(low-stakes · experience)*
+5. **Visible stretch.** In one genuinely loaded situation, use well-judged levity to release tension *without* minimizing the stakes, and read carefully whether it lands. Or: visibly laugh at your own mistake to make it safe for others. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: where did lightness help, and where would it have been wrong? What did it do to safety and energy? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: ask one person on the team, privately, whether your humor helps or grates; they'll tell you more than the room will. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "How does your team carry pressure: grim and brittle, or able to breathe? What's your part in that?"

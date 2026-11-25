@@ -28,10 +28,12 @@ Praxis runs as a repeating engagement. The coach drives steps 1–3; steps 4–7
 1. **Observe & nominate.** You observe the student and identify *a few* dimensions worth developing. (Or they bring their own; or you start from a recent review. Any entry point is valid.)
 2. **Contract (opt-in).** A short, explicit agreement. The student can decline the whole thing. Consent is the foundation, not a formality.
 3. **Present a few, student chooses one.** You offer the nominated dimensions *invitationally*. They pick one, or pass this cycle. Selection is gated by readiness (relevance + bandwidth).
-4. **Build the path.** For the chosen dimension, assemble a short, multimodal learning path (a reading, a talk, an observation task) plus a sequenced set of practice activities on real work.
+4. **Build the path.** For the chosen dimension, assemble a short, multimodal learning path (a reading, a talk, an observation task) plus a sequenced set of practice activities on real work, balanced roughly **70-20-10**: about 70% experience on real work, 20% exposure to people (coaching, feedback, mentors, peers), and 10% education (reading, talks, courses).
 5. **Practice.** The student runs the activities against live work, not exercises.
 6. **Follow up & adjust.** Recurring check-ins: debrief the activity, then *tweak it, keep it, or swap it.* This is the loop in motion.
 7. **Reflect & close.** Pre- and post-engagement, both parties reflect on the dimension and decide whether to continue, switch, or graduate the student toward developing others.
+
+**The 70-20-10 mix.** Most leadership development happens on the job, some through other people, and a little through reading. Praxis plans for that: every dimension's learning path and activities are tagged as experience, exposure, or education, the session and tracking templates record the planned and actual split, and the Praxis coaching conversations themselves sit in the 20%. It's a rule of thumb, not a quota and not a validated ratio; `01-coach-guide.md` explains how to use it and where it comes from.
 
 ## How to use this kit
 
@@ -71,6 +73,7 @@ Each dimension's Learning path names a specific reading and a specific talk, and
 
 - **Ralph Nader:** the "produce more leaders, not more followers" line that anchors the system's telos (widely attributed to Nader).
 - **The Leadership Circle Profile:** the leadership-360 instrument whose competency model seeded the dimension synthesis. Bob Anderson and The Leadership Circle (leadershipcircle.com).
+- **70-20-10:** Lombardo and Eichinger, *The Career Architect Development Planner* (Lominger, 1996), drawing on McCall, Lombardo, and Morrison, *The Lessons of Experience* (1988). A planning heuristic, not a validated ratio; full citations and the evidence question in `01-coach-guide.md`.
 - **Gallup Q12:** Gallup's twelve-item employee-engagement survey; its "someone at work cares about me as a person" item is the basis for the *Caring* dimension. See *First, Break All the Rules* (Marcus Buckingham and Curt Coffman, 1999).
 
 ---

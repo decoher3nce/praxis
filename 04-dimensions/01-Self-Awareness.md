@@ -11,18 +11,20 @@
 - *Higher:* Notices their own state and patterns in real time. Knows their triggers and works around them. Goes looking for the feedback others are afraid to give them, and changes in response. Holds their self-picture lightly enough to revise it.
 
 **Learning path.**
-- *Read:* Tasha Eurich, "What Self-Awareness Really Is (and How to Cultivate It)," *Harvard Business Review* (January 2018): the distinction between internal and external self-awareness, and why introspection alone doesn't produce it.
-- *Watch:* Tasha Eurich, "Increase your self-awareness with one simple fix" (TEDxMileHigh): why ~95% of people think they're self-aware while only 10–15% are, and the shift from "why" to "what" questions.
-- *Other:* ask three people who see you in different contexts the same question ("what's one thing I do that I might not realize?") and just listen.
+- *Read (education):* Tasha Eurich, "What Self-Awareness Really Is (and How to Cultivate It)," *Harvard Business Review* (January 2018): the distinction between internal and external self-awareness, and why introspection alone doesn't produce it.
+- *Watch (education):* Tasha Eurich, "Increase your self-awareness with one simple fix" (TEDxMileHigh): why ~95% of people think they're self-aware while only 10–15% are, and the shift from "why" to "what" questions.
+- *Other (exposure):* ask three people who see you in different contexts the same question ("what's one thing I do that I might not realize?") and just listen.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Write two sentences: one strength you're confident you have, one growth edge you suspect. *(low-stakes)*
-2. **Input.** Engage the learning path. *(low-stakes)*
-3. **Observe.** For a week, log moments your state shifted: what triggered it, what you felt, what you then did. Don't change anything yet. *(low-stakes)*
-4. **Small experiment.** Ask one trusted person for one piece of feedback on yourself, and respond only with "thank you, tell me more." Notice the urge to explain. *(low-stakes)*
-5. **Visible stretch.** Solicit feedback from several people on a specific question about your impact, synthesize the themes, and share back with your coach what surprised you. *(visible stretch)*
-6. **Reflect & integrate.** Without rereading your notes, reconstruct: where was the gap between how you saw yourself and how others did? What's one pattern you can now name? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Write two sentences: one strength you're confident you have, one growth edge you suspect. *(low-stakes · exposure)*
+2. **Input.** Engage the learning path. *(low-stakes · education)*
+3. **Observe.** For a week, log moments your state shifted: what triggered it, what you felt, what you then did. Don't change anything yet. *(low-stakes · experience)*
+4. **Small experiment.** Ask one trusted person for one piece of feedback on yourself, and respond only with "thank you, tell me more." Notice the urge to explain. *(low-stakes · experience)*
+5. **Visible stretch.** Solicit feedback from several people on a specific question about your impact, synthesize the themes, and share back with your coach what surprised you. *(visible stretch · experience)*
+6. **Reflect & integrate.** Without rereading your notes, reconstruct: where was the gap between how you saw yourself and how others did? What's one pattern you can now name? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: pair with one peer who agrees to tell you, once a week, one thing they noticed about your impact in a meeting. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "What's the story you tell about yourself as a leader, and where might it be out of date?"

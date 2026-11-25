@@ -11,18 +11,20 @@
 - *Higher:* Reads the audience and adjusts altitude. Leads with the conclusion and the "so what." Translates technical risk into terms the decision-maker cares about. Does the influence work *before* the meeting. Moves people by making the right thing easy to see.
 
 **Learning path.**
-- *Read:* Robert Cialdini, "Harnessing the Science of Persuasion," *Harvard Business Review* (October 2001): the six principles of influence (reciprocity, liking, social proof, authority, consistency, scarcity) and how to use them ethically.
-- *Watch:* Nancy Duarte, "The secret structure of great talks" (TEDxEast, 2011): the "what is / what could be" structure behind talks that move an audience to act.
-- *Other:* watch a leader who communicates well in a real meeting; note specifically *how* they pitched it to that audience.
+- *Read (education):* Robert Cialdini, "Harnessing the Science of Persuasion," *Harvard Business Review* (October 2001): the six principles of influence (reciprocity, liking, social proof, authority, consistency, scarcity) and how to use them ethically.
+- *Watch (education):* Nancy Duarte, "The secret structure of great talks" (TEDxEast, 2011): the "what is / what could be" structure behind talks that move an audience to act.
+- *Other (exposure):* watch a leader who communicates well in a real meeting; note specifically *how* they pitched it to that audience.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Take a recent message that didn't land and write its one-sentence point: what the audience should have walked away with. *(low-stakes)*
-2. **Input.** Engage the learning path; pick one technique (BLUF, audience-altitude, pre-wiring). *(low-stakes)*
-3. **Observe.** For a week, before each email or meeting, name the audience and the single point. Notice when you skip this. *(low-stakes)*
-4. **Small experiment.** Rewrite one routine update to lead with the conclusion and trim the depth to what *that* audience needs. *(low-stakes)*
-5. **Visible stretch.** Take one real, consequential message (a risk to raise, a recommendation to sell) and do the full job: tailor to audience, lead with the point, pre-wire the key people first. *(visible stretch)*
-6. **Reflect & integrate.** From memory: where did the message land, where did it slip, and what did the pre-wiring change? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Take a recent message that didn't land and write its one-sentence point: what the audience should have walked away with. *(low-stakes · exposure)*
+2. **Input.** Engage the learning path; pick one technique (BLUF, audience-altitude, pre-wiring). *(low-stakes · education)*
+3. **Observe.** For a week, before each email or meeting, name the audience and the single point. Notice when you skip this. *(low-stakes · experience)*
+4. **Small experiment.** Rewrite one routine update to lead with the conclusion and trim the depth to what *that* audience needs. *(low-stakes · experience)*
+5. **Visible stretch.** Take one real, consequential message (a risk to raise, a recommendation to sell) and do the full job: tailor to audience, lead with the point, pre-wire the key people first. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: where did the message land, where did it slip, and what did the pre-wiring change? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: ask one person in the step 5 audience what they took away, and compare it with the point you intended. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "Who's the audience, and what's the one thing you need them to walk away with?"

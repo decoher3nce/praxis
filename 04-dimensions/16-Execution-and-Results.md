@@ -11,18 +11,20 @@
 - *Higher:* Closes the loop: every commitment has an owner, a date, and follow-through. Catches drift early and adjusts. Clears obstacles before they stall the team. Protects focus, and delivers in a way the team could repeat without being ground down.
 
 **Learning path.**
-- *Read:* Jeffrey Pfeffer and Robert I. Sutton, *The Knowing-Doing Gap* (2000): why organizations so often fail to act on what they already know, and how the best close the gap between knowledge and action.
-- *Watch:* Tony Schwartz, "Managing Your Energy for Sustainable High Performance": the "manage your energy, not your time" principle, and cycling between spending and renewing energy to perform without burning out.
-- *Other:* shadow how an operationally strong leader runs their tracking and follow-up rhythm.
+- *Read (education):* Jeffrey Pfeffer and Robert I. Sutton, *The Knowing-Doing Gap* (2000): why organizations so often fail to act on what they already know, and how the best close the gap between knowledge and action.
+- *Watch (education):* Tony Schwartz, "Managing Your Energy for Sustainable High Performance": the "manage your energy, not your time" principle, and cycling between spending and renewing energy to perform without burning out.
+- *Other (exposure):* shadow how an operationally strong leader runs their tracking and follow-up rhythm.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. List your team's top three commitments and honestly mark which are actually on track to close. *(low-stakes)*
-2. **Input.** Engage the learning path; adopt one execution habit (e.g., owner+date on every action). *(low-stakes)*
-3. **Observe.** For a week, track how many decisions in your meetings become a named owner, a date, and an actual closure. Notice the leakage. *(low-stakes)*
-4. **Small experiment.** Run one meeting where nothing closes without an owner and a date, and you personally follow up before the next one. *(low-stakes)*
-5. **Visible stretch.** Take one at-risk deliverable and drive it to closure (surface the slippage early, clear the blockers, hold the focus) without grinding the team. *(visible stretch)*
-6. **Reflect & integrate.** From memory: where did things close vs. leak, and what did you do to remove obstacles? Did you protect the team while delivering? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. List your team's top three commitments and honestly mark which are actually on track to close. *(low-stakes · exposure)*
+2. **Input.** Engage the learning path; adopt one execution habit (e.g., owner+date on every action). *(low-stakes · education)*
+3. **Observe.** For a week, track how many decisions in your meetings become a named owner, a date, and an actual closure. Notice the leakage. *(low-stakes · experience)*
+4. **Small experiment.** Run one meeting where nothing closes without an owner and a date, and you personally follow up before the next one. *(low-stakes · experience)*
+5. **Visible stretch.** Take one at-risk deliverable and drive it to closure (surface the slippage early, clear the blockers, hold the focus) without grinding the team. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: where did things close vs. leak, and what did you do to remove obstacles? Did you protect the team while delivering? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: ask a peer lead how they keep their follow-up rhythm and borrow one piece of it. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "Of everything decided this week, what actually has an owner and a date, and what's quietly drifting?"

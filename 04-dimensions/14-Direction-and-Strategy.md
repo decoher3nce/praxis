@@ -11,18 +11,20 @@
 - *Higher:* Steps back to ask whether the work serves the goal before investing. Names trade-offs explicitly and defends what they're deprioritizing. Communicates direction so clearly the team can self-orient. Reasons about second- and third-order effects.
 
 **Learning path.**
-- *Read:* Michael E. Porter, "What Is Strategy?" *Harvard Business Review* (November-December 1996): strategy as trade-offs, i.e., that it is as much about what you choose *not* to do as what you do.
-- *Watch:* Simon Sinek, "How great leaders inspire action" (TEDxPugetSound, 2009): the Golden Circle and starting with "why," i.e., connecting the work to its purpose.
-- *Other:* sit in on a planning or program-strategy discussion a level or two up, purely to observe how direction gets framed.
+- *Read (education):* Michael E. Porter, "What Is Strategy?" *Harvard Business Review* (November-December 1996): strategy as trade-offs, i.e., that it is as much about what you choose *not* to do as what you do.
+- *Watch (education):* Simon Sinek, "How great leaders inspire action" (TEDxPugetSound, 2009): the Golden Circle and starting with "why," i.e., connecting the work to its purpose.
+- *Other (exposure):* sit in on a planning or program-strategy discussion a level or two up, purely to observe how direction gets framed.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Write the one-sentence "why this matters to the mission" for your current main effort. *(low-stakes)*
-2. **Input.** Engage the learning path; pick one lens (trade-offs, second-order effects, purpose). *(low-stakes)*
-3. **Observe.** For a week, when a decision crosses your desk, jot the second-order effect nobody's discussing and the thing you're implicitly choosing *not* to do. *(low-stakes)*
-4. **Small experiment.** In one meeting, before the team dives into *how*, ask "what are we actually trying to achieve, and what are we choosing not to do?" *(low-stakes)*
-5. **Visible stretch.** Take one real plan or decision you own and write a short strategy note (the goal, the trade-offs, the second-order risks, what you're deprioritizing) then share it and defend it. *(visible stretch)*
-6. **Reflect & integrate.** From memory: where did stepping back change the call? Where did you still default to local optimization? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Write the one-sentence "why this matters to the mission" for your current main effort. *(low-stakes · exposure)*
+2. **Input.** Engage the learning path; pick one lens (trade-offs, second-order effects, purpose). *(low-stakes · education)*
+3. **Observe.** For a week, when a decision crosses your desk, jot the second-order effect nobody's discussing and the thing you're implicitly choosing *not* to do. *(low-stakes · experience)*
+4. **Small experiment.** In one meeting, before the team dives into *how*, ask "what are we actually trying to achieve, and what are we choosing not to do?" *(low-stakes · experience)*
+5. **Visible stretch.** Take one real plan or decision you own and write a short strategy note (the goal, the trade-offs, the second-order risks, what you're deprioritizing) then share it and defend it. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: where did stepping back change the call? Where did you still default to local optimization? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: share the step 5 strategy note with someone a level up and ask what they would challenge. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "Before we talk about how, what are we actually trying to achieve, and how does this serve the mission?"

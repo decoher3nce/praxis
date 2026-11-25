@@ -98,10 +98,12 @@ The mechanics are light. The loop:
 1. **Observe & nominate:** the coach offers a few dimensions worth developing (or the student brings their own, or you start from a review).
 2. **Contract:** a short, explicit, opt-in agreement. (More on this below.)
 3. **Present a few, student chooses one:** invitationally. "I'll pass this cycle" is always a real answer.
-4. **Build the path:** for the chosen dimension, a short learning path plus a sequence of practice activities on real work.
+4. **Build the path:** for the chosen dimension, a short learning path plus a sequence of practice activities on real work, balanced roughly 70-20-10 (more below).
 5. **Practice:** on live work, not exercises.
 6. **Check in & adjust:** debrief, then keep / tweak / swap the activity.
 7. **Reflect & close:** pre- and post-engagement, you both reflect on the dimension and decide what's next. The goal is movement and self-awareness, not a high score.
+
+**Where the learning actually happens.** Expect roughly 70% of your development here to come from practicing on your real work, about 20% from people (your coach, feedback, watching and talking with leaders you respect), and about 10% from reading and talks. That split is a rule of thumb from leadership-development research, not a measured law, but it points the right way: you won't read your way into leading. The reading gives you a frame; the work is where the skill gets built; the people help you see what you did.
 
 Two things every participant should hear out loud at the start:
 
@@ -125,4 +127,5 @@ One last time, because it's the whole thing: we are not here to make you a bette
 - **Ralph Nader:** the "produce more leaders, not more followers" line that anchors the system (widely attributed to Nader).
 - **VUCA:** Volatile, Uncertain, Complex, Ambiguous; a framing that originated at the U.S. Army War College in the late 1980s (drawing on Bennis and Nanus) and was later widely adopted in strategy and leadership.
 - **The science of learning:** deliberate practice, spaced practice, and retrieval practice; fuller citations in `01-coach-guide.md` (Ericsson; *Make It Stick*).
+- **70-20-10:** a planning heuristic from Lombardo and Eichinger (1996), drawing on Center for Creative Leadership research into how executives said they developed; not a validated ratio. Full citations in `01-coach-guide.md`.
 - **Praxis:** the idea of action refined by reflection is an old one in philosophy and education; this system uses its plain meaning (putting ideas into practice), not any single author's version.

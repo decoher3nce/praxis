@@ -11,18 +11,20 @@
 - *Higher:* Notices the reaction rising and chooses the response. Steadies the room precisely when it's hardest. Treats a setback as information, not catastrophe. Paces their energy so they're still standing at the end of the campaign.
 
 **Learning path.**
-- *Read:* Stephen R. Covey, *The 7 Habits of Highly Effective People*, Habit 1 ("Be Proactive"): the space between stimulus and response and the freedom to choose the response (Covey's framing of a principle he draws from Viktor Frankl).
-- *Watch:* Kelly McGonigal, "How to make stress your friend" (TEDGlobal 2013): the physiology of the stress response and how your belief about stress changes its effect on the body.
-- *Other:* watch someone you consider unshakeable handle a real high-pressure moment; note specifically *what they do* with their body, voice, and timing.
+- *Read (education):* Stephen R. Covey, *The 7 Habits of Highly Effective People*, Habit 1 ("Be Proactive"): the space between stimulus and response and the freedom to choose the response (Covey's framing of a principle he draws from Viktor Frankl).
+- *Watch (education):* Kelly McGonigal, "How to make stress your friend" (TEDGlobal 2013): the physiology of the stress response and how your belief about stress changes its effect on the body.
+- *Other (exposure):* watch someone you consider unshakeable handle a real high-pressure moment; note specifically *what they do* with their body, voice, and timing.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Name the two situations that most reliably knock you off-center. *(low-stakes)*
-2. **Input.** Engage the learning path; pick one regulation practice (a breath, a pause, naming the feeling). *(low-stakes)*
-3. **Observe.** For a week, log each time your composure slipped: the trigger, the bodily cue, what you did next. *(low-stakes)*
-4. **Small experiment.** In one low-stakes triggering moment, insert a deliberate pause (even three seconds) before responding. Notice what changes. *(low-stakes)*
-5. **Visible stretch.** In one genuinely high-pressure situation (an anomaly, a hard review, a tight call), consciously regulate and steady the room. Afterward, ask someone how you came across. *(visible stretch)*
-6. **Reflect & integrate.** From memory: where did the pause hold and where did it break? What was the gap between what you felt and how you landed? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Name the two situations that most reliably knock you off-center. *(low-stakes · exposure)*
+2. **Input.** Engage the learning path; pick one regulation practice (a breath, a pause, naming the feeling). *(low-stakes · education)*
+3. **Observe.** For a week, log each time your composure slipped: the trigger, the bodily cue, what you did next. *(low-stakes · experience)*
+4. **Small experiment.** In one low-stakes triggering moment, insert a deliberate pause (even three seconds) before responding. Notice what changes. *(low-stakes · experience)*
+5. **Visible stretch.** In one genuinely high-pressure situation (an anomaly, a hard review, a tight call), consciously regulate and steady the room. Afterward, ask someone how you came across. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: where did the pause hold and where did it break? What was the gap between what you felt and how you landed? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: ask a colleague who'll be in the room for your step 5 moment to watch for your tells and debrief you afterward. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "What knocked you off-center this week, and did you see it coming?"

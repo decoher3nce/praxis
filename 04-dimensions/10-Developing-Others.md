@@ -11,18 +11,20 @@
 - *Higher:* Delegates the *decision* with scaffolding and a safety net. 1:1s spend real time on the person's development. Treats a recoverable mistake as paid-for tuition. Gives and asks for feedback in near-real-time. Transmits the "feel," not just the procedure.
 
 **Learning path.**
-- *Read:* Center for Creative Leadership, the SBI (Situation-Behavior-Impact) feedback model: how to keep developmental feedback specific and factual (what happened, the exact behavior, its impact) rather than personal.
-- *Watch:* Liz Wiseman and Greg McKeown, "How the Best Leaders Make Everyone Smarter" (Talks at Google): multipliers vs. diminishers, and the cost of needing to be the smartest person in the room.
-- *Other:* a 20-minute conversation with a leader you admire about how *they* were developed.
+- *Read (education):* Center for Creative Leadership, the SBI (Situation-Behavior-Impact) feedback model: how to keep developmental feedback specific and factual (what happened, the exact behavior, its impact) rather than personal.
+- *Watch (education):* Liz Wiseman and Greg McKeown, "How the Best Leaders Make Everyone Smarter" (Talks at Google): multipliers vs. diminishers, and the cost of needing to be the smartest person in the room.
+- *Other (exposure):* a 20-minute conversation with a leader you admire about how *they* were developed.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Write one sentence: "A person I lead is ready for more responsibility in ___." *(low-stakes)*
-2. **Input.** Engage the learning path. *(low-stakes)*
-3. **Observe.** For a week, in each 1:1 and team meeting, count your tell:ask ratio. Just notice it. *(low-stakes)*
-4. **Small experiment.** Run one 1:1 using a coaching frame (e.g., GROW): have the report bring a problem, and resist solving it; coach them to their own next step. *(low-stakes)*
-5. **Visible stretch.** Delegate one meaningful, visible *decision* to a report: clear boundary, a check-in, no script. Tell them the outcome is theirs, and hold your hands off it. *(visible stretch)*
-6. **Reflect & integrate.** Without rereading notes, reconstruct: what did they learn vs. what did you still control? Where did you reach in to "rescue"? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / **graduate** (have them coach someone else, the loop's whole point).
+1. **Frame & baseline.** Self-rate 1–5. Write one sentence: "A person I lead is ready for more responsibility in ___." *(low-stakes · exposure)*
+2. **Input.** Engage the learning path. *(low-stakes · education)*
+3. **Observe.** For a week, in each 1:1 and team meeting, count your tell:ask ratio. Just notice it. *(low-stakes · experience)*
+4. **Small experiment.** Run one 1:1 using a coaching frame (e.g., GROW): have the report bring a problem, and resist solving it; coach them to their own next step. *(low-stakes · experience)*
+5. **Visible stretch.** Delegate one meaningful, visible *decision* to a report: clear boundary, a check-in, no script. Tell them the outcome is theirs, and hold your hands off it. *(visible stretch · experience)*
+6. **Reflect & integrate.** Without rereading notes, reconstruct: what did they learn vs. what did you still control? Where did you reach in to "rescue"? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / **graduate** (have them coach someone else, the loop's whole point). *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: the person you delegated to in step 5 is your best source: ask them what helped and where you got in the way. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "Where are you still the bottleneck, and is that because the work needs you, or because letting go feels risky?"

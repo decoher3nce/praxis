@@ -114,7 +114,7 @@ Things to say:
 
 **Guidelines for building a good path:**
 - **Curate, don't data-dump.** The failure mode here is dumping a stack of articles and a pile of activities on the student. Resist it. Pick the few inputs and the one or two activities that fit *this* student, *this* dimension, and *this* moment in their work. A fine-tuned strategy beats a comprehensive reading list every time.
-- **Go multimodal, lightly.** Offer a mix (something to read, something to watch, something to do or observe) and let the student take in ideas the way that actually works for them. Skip whatever doesn't help.
+- **Go multimodal, lightly.** Offer a mix (something to read, something to watch, something to do or observe) and let the student take in ideas the way that actually works for them. Skip whatever doesn't help. Keep the overall balance near 70-20-10 (see below).
 - **Anchor every activity to real, current work.** Practice has to land on something live: an upcoming meeting, a real decision, an actual deliverable. If an activity has no real place to happen, redesign it until it does.
 - **Sequence by the science of learning.** The activity arc in each dimension file is built on a few robust findings; preserve their spirit:
   - *Progressive challenge / deliberate practice*: low-stakes reps before the visible stretch, each rep just past comfortable (Ericsson; see References).
@@ -122,8 +122,31 @@ Things to say:
   - *Retrieval*: have reflection reconstruct what happened from memory rather than reread notes; retrieval is what consolidates learning.
 - **Use a coaching frame for the conversation.** A simple structure such as GROW (Goal, Reality, Options, Will) keeps you asking rather than telling. See References.
 
+### Balance the mix: 70-20-10
+
+Aim for a rough split of the student's development time across the cycle:
+
+- **About 70% experience:** practice on real work. The Observe, Small experiment, and Visible stretch steps, plus any stretch assignment you can steer their way.
+- **About 20% exposure:** learning from and through other people. Your coaching check-ins count here, and so do feedback, shadowing or interviewing a skilled leader, a peer who watches and debriefs, and, later, coaching someone else.
+- **About 10% education:** reading, talks, and courses. The learning path's *Read* and *Watch* items live here, as do books from a leadership library and any formal course.
+
+Each dimension file tags its learning-path items and activity steps with these three modes and ends its sequence with a short **The mix** note. Steps 1, 6, and 7 happen in or around your sessions, so they're tagged exposure.
+
+**Count time, not items.** A path with one reading, one talk, and five activities is already experience-heavy: the reading takes an evening and the practice runs for weeks. A path that is mostly a reading list is upside down, however good the list. In test terms, the reading is the procedure review; the practice is the test.
+
+**How to use it.**
+- *Building the path:* ask where most of the hours will go. If the answer is "reading," redesign until it's "real work."
+- *The 20% isn't only you.* Put at least one person besides you into each cycle: a peer, a senior engineer, someone they lead. It widens what they learn and keeps their development from running through a single relationship.
+- *Don't drop the 10%.* It is small, but it gives the student a frame to practice with and words for what they're seeing. Experience with no frame and no reflection is just doing the job.
+- *Bandwidth:* because most of the 70% rides on work they're already doing, a well-built path asks for less extra time than it looks. That helps in the readiness conversation (`03-readiness-and-timing.md`).
+
+**It's a guide, not a quota.** Don't police the percentages. A cycle that runs 60/30/10 because a great mentor turned up is fine. What matters is the direction: most development happens on the job, with people around it, and a little reading to frame it.
+
+**Where it comes from, and how much to trust it.** The figures come from Michael Lombardo and Robert Eichinger's *The Career Architect Development Planner* (Lominger, 1996), which drew on Center for Creative Leadership research in which successful executives recalled the experiences that had developed them (McCall, Lombardo, and Morrison, *The Lessons of Experience*, 1988). Those were recollections, not measurements, and reviews of the evidence find little empirical support for the specific split, so treat it as a planning heuristic that points the right way, not as a validated ratio.
+
 **What to say when you present it:**
 - *"Here's a small, curated path, not a syllabus. A couple of things to take in, and one or two things to actually try on real work."*
+- *"Most of this happens on your actual work, some of it with people, and a little of it in reading. If it starts to feel like homework, we built it wrong."*
 - *"Which of these fits how you learn? Skip the rest."*
 - *"Where on your actual plate could the practice happen?"*
 
@@ -153,6 +176,8 @@ Things to say:
 - **Swap** it entirely when it's not producing learning, the dimension itself has shifted, or real work has overtaken the plan.
 
 A simple way to choose: *"Did this produce learning or just activity? If learning, keep or push harder. If just activity, what would actually move you?"*
+
+**Glance at the mix.** Every few check-ins, look at the mode column in the tracking log (`07-tracking-template.md`). If reading is crowding out practice, or nobody but you is in the picture, use the next tweak or swap to fix it.
 
 ---
 
@@ -201,5 +226,6 @@ That hand-off, a student becoming a coach, is Praxis succeeding. More leaders, n
 - **Socratic method / maieutics:** teaching by question rather than lecture; drawing out the learner's own reasoning. See Plato's early dialogues (e.g., *Meno*).
 - **GROW model:** a widely used coaching conversation structure (Goal, Reality, Options, Will), developed in the 1980s by John Whitmore, Graham Alexander, and Alan Fine; described in Whitmore's *Coaching for Performance* (1992).
 - **Deliberate practice:** K. Anders Ericsson on how expert performance is built through targeted, progressively harder practice (*Peak*, Ericsson and Pool, 2016).
+- **70-20-10:** the figures appear in Michael M. Lombardo and Robert W. Eichinger, *The Career Architect Development Planner* (Lominger, 1996), drawing on the Center for Creative Leadership research reported in Morgan W. McCall, Michael M. Lombardo, and Ann M. Morrison, *The Lessons of Experience: How Successful Executives Develop on the Job* (Lexington Books, 1988); the ratio itself does not appear in the 1988 book. On the evidence: "70:20:10: Where Is the Evidence?" (ATD Science of Learning blog, 2014), which calls the model "neither a scientific fact nor a recipe," and Alan Clardy, "70-20-10 and the Dominance of Informal Learning: A Fact in Search of Evidence," *Human Resource Development Review* (2018).
 - **Spaced and retrieval practice:** cognitive-science findings on durable learning; see *Make It Stick* (Brown, Roediger, and McDaniel, 2014).
 - **Ralph Nader:** the "produce more leaders, not more followers" line behind graduation (widely attributed to Nader).
