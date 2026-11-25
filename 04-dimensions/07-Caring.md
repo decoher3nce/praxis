@@ -2,7 +2,7 @@
 
 **Definition.** Genuinely valuing the people you lead as whole humans (their growth, their wellbeing, their life beyond the work) and caring in a way they actually *feel*.
 
-**Why it matters here.** This is one of the most direct drivers of engagement there is: Gallup's research on what makes teams thrive includes, prominently, having someone at work who genuinely cares about you as a person. Felt care is the foundation of discretionary effort and retention; people give their best to leaders they believe are in their corner. And it's load-bearing for the whole Praxis system: people don't take development risks, admit they're struggling, or stretch in front of you unless they trust you actually care about them, not just their output. You cannot develop someone you don't care about, and they can tell.
+**Why it matters here.** This is one of the most direct drivers of engagement there is: Gallup's research on what makes teams thrive includes, prominently, having someone at work who genuinely cares about you as a person. Felt care is the foundation of discretionary effort and retention; people give their best to leaders they believe are in their corner. And the whole Praxis system depends on it: people don't take development risks, admit they're struggling, or stretch in front of you unless they trust you actually care about them, not just their output. You cannot develop someone you don't care about, and they can tell.
 
 **Behavioral indicators.** Knows what matters to each person beyond the work; notices when someone's off and follows up; protects people's wellbeing and bandwidth, even at a cost to short-term output; shows care in the form *that person* receives (not a one-size gesture); remembers and asks about the things people told them.
 
