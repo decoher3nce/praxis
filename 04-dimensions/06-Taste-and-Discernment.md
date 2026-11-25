@@ -11,18 +11,20 @@
 - *Higher:* Perceives quality finely and explains it in transferable terms. Holds a high bar where it matters and relaxes it where it doesn't. Protects the standard when the schedule pushes back. Grows the discernment of the people around them.
 
 **Learning path.**
-- *Read:* Paul Graham, "Taste for Makers" (2002): the argument that taste is cultivated judgment rather than personal whim, with concrete properties of good design.
-- *Watch:* Ira Glass, "The Gap": a storytelling master on why your taste outruns your skill for years, and why sheer volume of work is how you close the gap.
-- *Other:* sit with someone whose technical judgment you trust and have them walk you through *why* a piece of work is excellent or not.
+- *Read (education):* Paul Graham, "Taste for Makers" (2002): the argument that taste is cultivated judgment rather than personal whim, with concrete properties of good design.
+- *Watch (education):* Ira Glass, "The Gap": a storytelling master on why your taste outruns your skill for years, and why sheer volume of work is how you close the gap.
+- *Other (exposure):* sit with someone whose technical judgment you trust and have them walk you through *why* a piece of work is excellent or not.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Pick a recent deliverable and write *why* it was or wasn't good, in specific, transferable terms. *(low-stakes)*
-2. **Input.** Engage the learning path. *(low-stakes)*
-3. **Observe.** For a week, when you judge something "good" or "off," force yourself to name the specific reason. Log them. *(low-stakes)*
-4. **Small experiment.** In one review, instead of giving a verdict, articulate the *criteria* of good for that work and coach someone to evaluate it themselves. *(low-stakes)*
-5. **Visible stretch.** On one consequential piece of work, hold the quality bar against schedule pressure, and make your reasoning explicit enough that the team learns the standard, not just the ruling. *(visible stretch)*
-6. **Reflect & integrate.** From memory: where could you articulate *why*, and where did you fall back on "I just know"? Did others' eye sharpen? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Pick a recent deliverable and write *why* it was or wasn't good, in specific, transferable terms. *(low-stakes · exposure)*
+2. **Input.** Engage the learning path. *(low-stakes · education)*
+3. **Observe.** For a week, when you judge something "good" or "off," force yourself to name the specific reason. Log them. *(low-stakes · experience)*
+4. **Small experiment.** In one review, instead of giving a verdict, articulate the *criteria* of good for that work and coach someone to evaluate it themselves. *(low-stakes · experience)*
+5. **Visible stretch.** On one consequential piece of work, hold the quality bar against schedule pressure, and make your reasoning explicit enough that the team learns the standard, not just the ruling. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: where could you articulate *why*, and where did you fall back on "I just know"? Did others' eye sharpen? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: trade reviews with a peer, each explaining your criteria for good on the other's work. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "What makes this good, in words someone else could use to judge the next one?"

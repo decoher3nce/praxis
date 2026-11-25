@@ -42,7 +42,7 @@ Date: __________   Student: __________
 
 ## B. Selection & path-build session
 
-**Goal:** present a few, student chooses one (or passes), readiness check, build the path.
+**Goal:** present a few, student chooses one (or passes), readiness check, build the path (balanced roughly 70-20-10).
 
 ```
 Date: __________   Student: __________
@@ -71,6 +71,10 @@ Date: __________   Student: __________
    - Learning path chosen: ________________________
    - Activity 1 anchored to: ______________________
    - Next visible-stretch candidate: ______________
+   - Planned mix (by time; a guide, not a quota):
+       Experience (~70%), real work:      ______________
+       Exposure  (~20%), who besides me:  ______________
+       Education (~10%), reading / talk:  ______________
 ```
 
 ---
@@ -101,7 +105,11 @@ Date: __________   Student: __________   Dimension: __________
    ☐ Swap (replace the activity): __________
    ☐ Pause (bandwidth/timing): revisit __________
 
-4. Next action + when:
+4. Mix so far (from the tracking log, by time)
+   Experience ___%   Exposure ___%   Education ___%
+   ☐ Roughly 70-20-10   ☐ Adjust next activity: __________
+
+5. Next action + when:
    _______________________________________________
 ```
 
@@ -117,6 +125,7 @@ Date: __________   Student: __________   Dimension: __________
 1. Post-rating (05-reflection-2x2.md)
    - Self: ____   Coach: ____   Quadrant: __________
    - Movement from pre → post: ___________________
+   - Actual mix this cycle: experience ___% · exposure ___% · education ___%
 
 2. Name the specific movement / change observed
    _______________________________________________
@@ -137,4 +146,4 @@ Date: __________   Student: __________   Dimension: __________
 
 ## References / See also
 
-- Phase logic and talking points: `01-coach-guide.md`. The rating step: `05-reflection-2x2.md`. Readiness check: `03-readiness-and-timing.md`. The expectations handout: `02-coaching-expectations.md`.
+- Phase logic, talking points, and the 70-20-10 mix: `01-coach-guide.md`. The rating step: `05-reflection-2x2.md`. Readiness check: `03-readiness-and-timing.md`. The expectations handout: `02-coaching-expectations.md`.

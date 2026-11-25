@@ -26,6 +26,7 @@ You are a co-creator of the results, not a passive recipient. The coach brings t
 - Work with your coach to spot the real situations worth practicing on.
 - Be honest about your priorities, and about your bandwidth.
 - Invest the time, in sessions and on the job, to make the practice real.
+- Expect most of your development to happen on the job: roughly 70% practicing on real work, 20% learning from people (your coach, feedback, others you watch or talk to), and 10% reading or courses.
 - Be willing to try new things and take sensible risks.
 - Focus on what you can actually do and practice inside your real work.
 - Trade honest feedback with your coach about how the coaching is going.

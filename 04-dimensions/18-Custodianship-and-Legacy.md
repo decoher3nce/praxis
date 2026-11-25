@@ -11,18 +11,20 @@
 - *Higher:* Stewards standards and knowledge for the long term. Actively captures and hands down the tacit "why." Weighs long-horizon health in decisions. Grows successors who will steward in turn. Leaves the craft and the institution stronger than they found it.
 
 **Learning path.**
-- *Read:* Peter Block, *Stewardship: Choosing Service Over Self-Interest*: stewardship as the willingness to be accountable for the well-being of the larger whole, operating in service rather than control.
-- *Watch:* Roman Krznaric, "How to be a good ancestor" (TED 2020): trading short-term mindsets for long-term thinking, and our responsibility to the generations who inherit what we build.
-- *Other:* interview a respected senior figure (or retiree) about the knowledge they fear is being lost, and capture it.
+- *Read (education):* Peter Block, *Stewardship: Choosing Service Over Self-Interest*: stewardship as the willingness to be accountable for the well-being of the larger whole, operating in service rather than control.
+- *Watch (education):* Roman Krznaric, "How to be a good ancestor" (TED 2020): trading short-term mindsets for long-term thinking, and our responsibility to the generations who inherit what we build.
+- *Other (exposure):* interview a respected senior figure (or retiree) about the knowledge they fear is being lost, and capture it.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Name one piece of hard-won knowledge or one standard that would be lost if you left tomorrow. *(low-stakes)*
-2. **Input.** Engage the learning path. *(low-stakes)*
-3. **Observe.** For a week, notice where tacit knowledge lives only in someone's head, and where short-term pressure is eroding a long-term standard. *(low-stakes)*
-4. **Small experiment.** Capture or transmit one piece of tacit knowledge: write it down, or teach it deliberately to someone who'll need it. *(low-stakes)*
-5. **Visible stretch.** Take one real custodial act with a long horizon: protect a standard under pressure for the org's future good, or set up a deliberate transmission of heritage knowledge to a successor. *(visible stretch)*
-6. **Reflect & integrate.** From memory: what did you preserve or hand down, and what's still at risk of being lost? Where did the long clock conflict with the short one? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Name one piece of hard-won knowledge or one standard that would be lost if you left tomorrow. *(low-stakes · exposure)*
+2. **Input.** Engage the learning path. *(low-stakes · education)*
+3. **Observe.** For a week, notice where tacit knowledge lives only in someone's head, and where short-term pressure is eroding a long-term standard. *(low-stakes · experience)*
+4. **Small experiment.** Capture or transmit one piece of tacit knowledge: write it down, or teach it deliberately to someone who'll need it. *(low-stakes · experience)*
+5. **Visible stretch.** Take one real custodial act with a long horizon: protect a standard under pressure for the org's future good, or set up a deliberate transmission of heritage knowledge to a successor. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: what did you preserve or hand down, and what's still at risk of being lost? Where did the long clock conflict with the short one? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: steps 4 and 5 already involve teaching someone, so ask that person what they still don't understand. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "What hard-won knowledge would the org lose if you left tomorrow? Who else holds it?"

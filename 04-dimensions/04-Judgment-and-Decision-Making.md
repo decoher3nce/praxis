@@ -11,18 +11,20 @@
 - *Higher:* Calibrates rigor to stakes and reversibility: fast on two-way doors, careful on one-way doors. Names assumptions and the disconfirming evidence they looked for. Decides under uncertainty and owns it. Makes the reasoning visible so others can learn and challenge it.
 
 **Learning path.**
-- *Read:* Jeff Bezos, 2015 Amazon shareholder letter: Type 1 vs. Type 2 (one-way- vs. two-way-door) decisions and matching deliberation to reversibility. Pair with Annie Duke, *Thinking in Bets* (2018) on "resulting," the error of judging a decision by its outcome.
-- *Watch:* Daniel Kahneman, "Thinking, Fast and Slow" (Talks at Google): System 1 / System 2 thinking and the cognitive biases that distort expert judgment under uncertainty.
-- *Other:* interview a leader you respect about a hard call they got right and one they got wrong, focusing on the reasoning, not the result.
+- *Read (education):* Jeff Bezos, 2015 Amazon shareholder letter: Type 1 vs. Type 2 (one-way- vs. two-way-door) decisions and matching deliberation to reversibility. Pair with Annie Duke, *Thinking in Bets* (2018) on "resulting," the error of judging a decision by its outcome.
+- *Watch (education):* Daniel Kahneman, "Thinking, Fast and Slow" (Talks at Google): System 1 / System 2 thinking and the cognitive biases that distort expert judgment under uncertainty.
+- *Other (exposure):* interview a leader you respect about a hard call they got right and one they got wrong, focusing on the reasoning, not the result.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Take a current decision and label it: reversible or not? High or low stakes? *(low-stakes)*
-2. **Input.** Engage the learning path; adopt one frame (e.g., two-way vs. one-way doors). *(low-stakes)*
-3. **Observe.** For a week, before each decision note: stakes, reversibility, and the one assumption you're leaning on. *(low-stakes)*
-4. **Small experiment.** On one low-stakes reversible call, deliberately decide *faster* than instinct. On one other, write your reasoning and what would change your mind before deciding. *(low-stakes)*
-5. **Visible stretch.** On a real, consequential decision, write a brief decision memo *before* acting (the call, key assumptions, disconfirming evidence you sought, why now) and share it. *(visible stretch)*
-6. **Reflect & integrate.** From memory, revisit a past decision: was it a good decision regardless of outcome? Where did luck get confused with skill? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Take a current decision and label it: reversible or not? High or low stakes? *(low-stakes · exposure)*
+2. **Input.** Engage the learning path; adopt one frame (e.g., two-way vs. one-way doors). *(low-stakes · education)*
+3. **Observe.** For a week, before each decision note: stakes, reversibility, and the one assumption you're leaning on. *(low-stakes · experience)*
+4. **Small experiment.** On one low-stakes reversible call, deliberately decide *faster* than instinct. On one other, write your reasoning and what would change your mind before deciding. *(low-stakes · experience)*
+5. **Visible stretch.** On a real, consequential decision, write a brief decision memo *before* acting (the call, key assumptions, disconfirming evidence you sought, why now) and share it. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory, revisit a past decision: was it a good decision regardless of outcome? Where did luck get confused with skill? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: have a peer or senior engineer red-team your step 5 decision memo before you act on it. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "Is this a one-way door or a two-way door? Are you spending the right rigor for which one it is?"

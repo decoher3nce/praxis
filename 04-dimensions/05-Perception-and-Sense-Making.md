@@ -11,18 +11,21 @@
 - *Higher:* Perceives the anomaly early and takes it seriously. Pauses to frame before the team charges off. Reasons about the whole system and downstream effects. Holds ambiguity open long enough to make sense of it, then gives the team a clear read.
 
 **Learning path.**
-- *Read:* Karl E. Weick, "The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster," *Administrative Science Quarterly* (1993): how a crew's shared grasp of the situation, and their roles, disintegrated at once, and the four sources of resilience that guard against it.
-- *Watch:* Daniel Simons, "The Monkey Business Illusion": the selective-attention demonstration of inattentional blindness, i.e., how much you miss while focused on the wrong thing.
-- *Other:* spend 30 minutes observing a process or meeting with the single job of noticing what's *not* being said or seen.
+- *Read (education):* Karl E. Weick, "The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster," *Administrative Science Quarterly* (1993): how a crew's shared grasp of the situation, and their roles, disintegrated at once, and the four sources of resilience that guard against it.
+- *Watch (education):* Daniel Simons, "The Monkey Business Illusion": the selective-attention demonstration of inattentional blindness, i.e., how much you miss while focused on the wrong thing.
+- *Other (experience):* spend 30 minutes observing a process or meeting with the single job of noticing what's *not* being said or seen.
+- *Exposure:* ask a senior engineer or program lead to walk you through how they read a recent ambiguous situation (an anomaly, an early schedule signal) and what tipped them off.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Recall a recent surprise: was there an early signal you now realize you missed? *(low-stakes)*
-2. **Input.** Engage the learning path; pick one lens (weak signals, systems, sensemaking). *(low-stakes)*
-3. **Observe.** For a week, in each meeting jot the one thing nobody's naming: the unstated assumption, the second-order effect, the quiet signal. *(low-stakes)*
-4. **Small experiment.** In one situation, before the team dives into solving, ask "what's actually going on here, and what might we be missing?" *(low-stakes)*
-5. **Visible stretch.** Take one genuinely ambiguous situation you own, make sense of it, and give your team a clear, written framing: what's happening, what it means, what we do. *(visible stretch)*
-6. **Reflect & integrate.** From memory: where did slowing down to perceive change the read? Where did you still take something at face value? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Recall a recent surprise: was there an early signal you now realize you missed? *(low-stakes · exposure)*
+2. **Input.** Engage the learning path; pick one lens (weak signals, systems, sensemaking). *(low-stakes · education)*
+3. **Observe.** For a week, in each meeting jot the one thing nobody's naming: the unstated assumption, the second-order effect, the quiet signal. *(low-stakes · experience)*
+4. **Small experiment.** In one situation, before the team dives into solving, ask "what's actually going on here, and what might we be missing?" *(low-stakes · experience)*
+5. **Visible stretch.** Take one genuinely ambiguous situation you own, make sense of it, and give your team a clear, written framing: what's happening, what it means, what we do. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: where did slowing down to perceive change the read? Where did you still take something at face value? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: compare your step 3 notes with a colleague's read of the same meeting. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "What's the signal you're seeing that nobody's talking about yet?"

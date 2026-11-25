@@ -11,18 +11,20 @@
 - *Higher:* Names the hard thing, with care but without flinching. Holds the line on values under pressure. Does what they said they'd do, especially when it costs them. Models the consistency that makes them trustworthy.
 
 **Learning path.**
-- *Read:* Brené Brown, *Dare to Lead* (2018): "rumbling with vulnerability" and living into your values, i.e., the courage to have the tough, values-based conversation. (Start with the "Rumbling with Vulnerability" section.)
-- *Watch:* Margaret Heffernan, "Dare to disagree" (TEDGlobal 2012): why ~85% of executives stay silent on issues they can see, and why good disagreement is central to progress.
-- *Other:* interview a leader you respect about the hardest stand they ever took and what it cost them.
+- *Read (education):* Brené Brown, *Dare to Lead* (2018): "rumbling with vulnerability" and living into your values, i.e., the courage to have the tough, values-based conversation. (Start with the "Rumbling with Vulnerability" section.)
+- *Watch (education):* Margaret Heffernan, "Dare to disagree" (TEDGlobal 2012): why ~85% of executives stay silent on issues they can see, and why good disagreement is central to progress.
+- *Other (exposure):* interview a leader you respect about the hardest stand they ever took and what it cost them.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Name one conversation you've been avoiding and one value you'd defend even at a cost. *(low-stakes)*
-2. **Input.** Engage the learning path. *(low-stakes)*
-3. **Observe.** For a week, notice the moments you soften, defer, or stay quiet to avoid friction. Just log them. *(low-stakes)*
-4. **Small experiment.** In one low-stakes setting, say the slightly harder true thing you'd normally swallow. Notice what actually happens. *(low-stakes)*
-5. **Visible stretch.** Raise one real undiscussable (a risk, a standard slipping, a difficult relationship issue) directly and with care, where it matters. *(visible stretch)*
-6. **Reflect & integrate.** From memory: what did you fear would happen vs. what did? Where did your actions and values diverge under pressure? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Name one conversation you've been avoiding and one value you'd defend even at a cost. *(low-stakes · exposure)*
+2. **Input.** Engage the learning path. *(low-stakes · education)*
+3. **Observe.** For a week, notice the moments you soften, defer, or stay quiet to avoid friction. Just log them. *(low-stakes · experience)*
+4. **Small experiment.** In one low-stakes setting, say the slightly harder true thing you'd normally swallow. Notice what actually happens. *(low-stakes · experience)*
+5. **Visible stretch.** Raise one real undiscussable (a risk, a standard slipping, a difficult relationship issue) directly and with care, where it matters. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: what did you fear would happen vs. what did? Where did your actions and values diverge under pressure? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: before step 5, talk the conversation through with a peer you trust to tell you where you're softening the message. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "What's the conversation you're avoiding right now? What's it costing to sit on it?"

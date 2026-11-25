@@ -11,18 +11,20 @@
 - *Higher:* Steps into disagreement early and keeps it about the problem. Digs for the interest beneath the position. Designs outcomes both sides can own. Defers gracefully when someone else should lead. Repairs and strengthens relationships through the friction.
 
 **Learning path.**
-- *Read:* Roger Fisher, William Ury, and Bruce Patton, *Getting to Yes*: interest-based negotiation, i.e., separating the people from the problem and focusing on interests, not positions.
-- *Watch:* William Ury, "The walk from 'no' to 'yes'" (TEDxMidwest, 2010): conflict resolution, "the third side," and "going to the balcony" to gain perspective.
-- *Other:* observe someone skilled at defusing or resolving a tense disagreement; note exactly what they do.
+- *Read (education):* Roger Fisher, William Ury, and Bruce Patton, *Getting to Yes*: interest-based negotiation, i.e., separating the people from the problem and focusing on interests, not positions.
+- *Watch (education):* William Ury, "The walk from 'no' to 'yes'" (TEDxMidwest, 2010): conflict resolution, "the third side," and "going to the balcony" to gain perspective.
+- *Other (exposure):* observe someone skilled at defusing or resolving a tense disagreement; note exactly what they do.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Name a conflict you're currently avoiding and what each side actually *wants* beneath their position. *(low-stakes)*
-2. **Input.** Engage the learning path; pick one frame (interests vs. positions, etc.). *(low-stakes)*
-3. **Observe.** For a week, notice your default in disagreement: do you avoid, accommodate, or steamroll? Log the pattern. *(low-stakes)*
-4. **Small experiment.** In one low-stakes disagreement, ask about the other person's underlying interest before arguing your position. *(low-stakes)*
-5. **Visible stretch.** Step into one real conflict you'd normally avoid: surface it directly, work to the interests, and aim for an outcome both sides own. Or: deliberately defer to someone who should lead a call that's nominally yours. *(visible stretch)*
-6. **Reflect & integrate.** From memory: where did engaging beat avoiding? Where did deferring serve better than leading? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Name a conflict you're currently avoiding and what each side actually *wants* beneath their position. *(low-stakes · exposure)*
+2. **Input.** Engage the learning path; pick one frame (interests vs. positions, etc.). *(low-stakes · education)*
+3. **Observe.** For a week, notice your default in disagreement: do you avoid, accommodate, or steamroll? Log the pattern. *(low-stakes · experience)*
+4. **Small experiment.** In one low-stakes disagreement, ask about the other person's underlying interest before arguing your position. *(low-stakes · experience)*
+5. **Visible stretch.** Step into one real conflict you'd normally avoid: surface it directly, work to the interests, and aim for an outcome both sides own. Or: deliberately defer to someone who should lead a call that's nominally yours. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: where did engaging beat avoiding? Where did deferring serve better than leading? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: if a neutral colleague can help you prepare for, or sit in on, the step 5 conversation, use them as a second set of eyes. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "What conflict are you avoiding, and what's the avoidance costing?"

@@ -11,18 +11,21 @@
 - *Higher:* Knows their people as individuals with lives. Catches the off-day and checks in. Will spend something real to protect a person's wellbeing. Tailors care to what each person actually values, which requires knowing them.
 
 **Learning path.**
-- *Read:* Gallup, Q12 Item 5 ("My supervisor, or someone at work, seems to care about me as a person"): the engagement research linking felt care to safety, retention, and performance. (See Gallup's Q12 materials.)
-- *Watch:* Simon Sinek, "Why good leaders make you feel safe" (TED 2014): leadership as taking care of the people in your charge, and the "circle of safety."
-- *Other:* in your next few 1:1s, spend the first ten minutes on the person, not the work, and just listen.
+- *Read (education):* Gallup, Q12 Item 5 ("My supervisor, or someone at work, seems to care about me as a person"): the engagement research linking felt care to safety, retention, and performance. (See Gallup's Q12 materials.)
+- *Watch (education):* Simon Sinek, "Why good leaders make you feel safe" (TED 2014): leadership as taking care of the people in your charge, and the "circle of safety."
+- *Other (experience):* in your next few 1:1s, spend the first ten minutes on the person, not the work, and just listen.
+- *Exposure:* ask a manager whose team would describe them as genuinely caring how they keep track of how each person is doing, and what they do when someone is struggling.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. For each person you lead, write one thing that matters to them outside work. Notice the gaps. *(low-stakes)*
-2. **Input.** Engage the learning path. *(low-stakes)*
-3. **Observe.** For a week, notice signs of how each person is actually doing (energy, mood, load) without acting yet. *(low-stakes)*
-4. **Small experiment.** In one 1:1, lead with the person: ask how they're really doing and follow the thread, instead of jumping to status. *(low-stakes)*
-5. **Visible stretch.** Act on care in a way that costs you something real (protect someone's bandwidth, adjust a deadline for a person who's underwater, or advocate for them) and do it in the form *they'd* value. *(visible stretch)*
-6. **Reflect & integrate.** From memory: what did you learn about your people that you didn't know? Where had care stayed internal and unfelt? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. For each person you lead, write one thing that matters to them outside work. Notice the gaps. *(low-stakes · exposure)*
+2. **Input.** Engage the learning path. *(low-stakes · education)*
+3. **Observe.** For a week, notice signs of how each person is actually doing (energy, mood, load) without acting yet. *(low-stakes · experience)*
+4. **Small experiment.** In one 1:1, lead with the person: ask how they're really doing and follow the thread, instead of jumping to status. *(low-stakes · experience)*
+5. **Visible stretch.** Act on care in a way that costs you something real (protect someone's bandwidth, adjust a deadline for a person who's underwater, or advocate for them) and do it in the form *they'd* value. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: what did you learn about your people that you didn't know? Where had care stayed internal and unfelt? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: ask the person you supported in step 5 whether it landed the way you meant it. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "What matters to each of your people *outside* the work? Where are the blanks?"

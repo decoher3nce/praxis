@@ -11,18 +11,20 @@
 - *Higher:* Produces original options and frames new problems. Shields early ideas long enough to develop. Actively cultivates others' generativity. Knows when to open up wide and when to narrow down.
 
 **Learning path.**
-- *Read:* Teresa Amabile, "How to Kill Creativity," *Harvard Business Review* (September-October 1998): how everyday management erodes the intrinsic motivation that drives creativity, and its three components (expertise, creative thinking, motivation).
-- *Watch:* Steven Johnson, "Where good ideas come from" (TED 2010): how breakthroughs actually form, through slow hunches, liquid networks, and the adjacent possible.
-- *Other:* talk to someone known for inventive work about how they generate and protect early ideas.
+- *Read (education):* Teresa Amabile, "How to Kill Creativity," *Harvard Business Review* (September-October 1998): how everyday management erodes the intrinsic motivation that drives creativity, and its three components (expertise, creative thinking, motivation).
+- *Watch (education):* Steven Johnson, "Where good ideas come from" (TED 2010): how breakthroughs actually form, through slow hunches, liquid networks, and the adjacent possible.
+- *Other (exposure):* talk to someone known for inventive work about how they generate and protect early ideas.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Take a current problem and force yourself to generate five options, not one. *(low-stakes)*
-2. **Input.** Engage the learning path; note the divergent/convergent distinction. *(low-stakes)*
-3. **Observe.** For a week, notice when you (or the team) converge too fast, or kill an early idea before it could grow. *(low-stakes)*
-4. **Small experiment.** Run one short divergent session (generate many options with no judgment allowed) *before* deciding anything. *(low-stakes)*
-5. **Visible stretch.** Tackle one real problem generatively: create the conditions for the team to produce novel options, protect the fragile ones, and only then converge. *(visible stretch)*
-6. **Reflect & integrate.** From memory: where did holding off judgment produce a better option? Where did you or others reach for the default? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Take a current problem and force yourself to generate five options, not one. *(low-stakes · exposure)*
+2. **Input.** Engage the learning path; note the divergent/convergent distinction. *(low-stakes · education)*
+3. **Observe.** For a week, notice when you (or the team) converge too fast, or kill an early idea before it could grow. *(low-stakes · experience)*
+4. **Small experiment.** Run one short divergent session (generate many options with no judgment allowed) *before* deciding anything. *(low-stakes · experience)*
+5. **Visible stretch.** Tackle one real problem generatively: create the conditions for the team to produce novel options, protect the fragile ones, and only then converge. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: where did holding off judgment produce a better option? Where did you or others reach for the default? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: bring someone from outside the team (another discipline or program) into the step 4 or step 5 session, since new people widen the option set. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "Is this the only option, or the first one? What are three others?"

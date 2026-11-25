@@ -11,18 +11,20 @@
 - *Higher:* Commands attention by being settled rather than loud. Projects grounded calm that the room borrows. Reads and matches the energy the moment needs. Makes the person in front of them feel like the only one there.
 
 **Learning path.**
-- *Read:* Sylvia Ann Hewlett, *Executive Presence: The Missing Link Between Merit and Success* (2014): the three components of presence, gravitas, communication, and appearance.
-- *Watch:* Julian Treasure, "How to speak so that people want to listen" (TEDGlobal 2013): the voice as an instrument, the "seven deadly sins" of speaking, and how to command attention.
-- *Other:* watch someone with strong presence in a high-stakes moment; note what they do with pace, stillness, voice, and eye contact.
+- *Read (education):* Sylvia Ann Hewlett, *Executive Presence: The Missing Link Between Merit and Success* (2014): the three components of presence, gravitas, communication, and appearance.
+- *Watch (education):* Julian Treasure, "How to speak so that people want to listen" (TEDGlobal 2013): the voice as an instrument, the "seven deadly sins" of speaking, and how to command attention.
+- *Other (exposure):* watch someone with strong presence in a high-stakes moment; note what they do with pace, stillness, voice, and eye contact.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Recall a moment you wish you'd shown up more steadily. What happened in your body? *(low-stakes)*
-2. **Input.** Engage the learning path; pick one grounding practice (breath, pace, posture). *(low-stakes)*
-3. **Observe.** For a week, notice your presence before meetings: rushed and scattered, or grounded? Notice how the room responds. *(low-stakes)*
-4. **Small experiment.** Before one meeting, take 60 seconds to ground yourself, then enter deliberately slower and more settled. Notice the difference. *(low-stakes)*
-5. **Visible stretch.** In one genuinely high-stakes moment, consciously bring grounded presence (steady pace, calm voice, full attention) and steady the room. Ask someone afterward how you came across. *(visible stretch)*
-6. **Reflect & integrate.** From memory: when were you fully *there* vs. half-present? What did the room do in response? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Recall a moment you wish you'd shown up more steadily. What happened in your body? *(low-stakes · exposure)*
+2. **Input.** Engage the learning path; pick one grounding practice (breath, pace, posture). *(low-stakes · education)*
+3. **Observe.** For a week, notice your presence before meetings: rushed and scattered, or grounded? Notice how the room responds. *(low-stakes · experience)*
+4. **Small experiment.** Before one meeting, take 60 seconds to ground yourself, then enter deliberately slower and more settled. Notice the difference. *(low-stakes · experience)*
+5. **Visible stretch.** In one genuinely high-stakes moment, consciously bring grounded presence (steady pace, calm voice, full attention) and steady the room. Ask someone afterward how you came across. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: when were you fully *there* vs. half-present? What did the room do in response? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: ask the colleague from step 5 to watch you once before and once after you start the grounding practice and tell you what changed. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "How do you show up when you walk into a hard room, and what does the room catch from it?"

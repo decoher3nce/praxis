@@ -1,6 +1,6 @@
 # Dimension Library: Index
 
-*The catalog of leadership dimensions you coach from. Each has its own file with a definition, behavioral indicators, lower-vs-higher contrasts, a light learning path, a practice activity sequence, coach talking points, and its web connections to nearby dimensions.*
+*The catalog of leadership dimensions you coach from. Each has its own file with a definition, behavioral indicators, lower-vs-higher contrasts, a light learning path, a practice activity sequence with its 70-20-10 mix, coach talking points, and its web connections to nearby dimensions.*
 
 > **This is the working standard, 18 dimensions**, synthesized from the Leadership Circle 360, a wide cross-domain brainstorm (business → artistic → craft → military → care), the Gallup engagement research (the *Caring* dimension), and the irreducible universal-skills core. It replaces the earlier placeholder library.
 
@@ -64,8 +64,8 @@ The four groupings (self / thinking / people / work) are a convenience for findi
    2. **Why it matters here:** tie to the Nader telos (does strength here help *produce more leaders*?) where natural.
    3. **Behavioral indicators:** observable behaviors, so you rate actions not vibes.
    4. **Lower vs. higher:** concrete contrasting examples, no judgment language.
-   5. **Learning path:** 1 reading, 1 talk/video, 1 other modality; name specific sources and mark any you haven't confirmed with `[verify]`. Light, not homework.
-   6. **Activity sequence:** the seven-step arc: Frame & baseline → Input → Observe → Small experiment → Visible stretch → Reflect & integrate → Re-rate & decide. Mark low-stakes vs. visible-stretch.
+   5. **Learning path:** 1 reading, 1 talk/video, 1 other modality; name specific sources and mark any you haven't confirmed with `[verify]`. Light, not homework. Tag each item *(education)*, *(exposure)*, or *(experience)*, and include at least one exposure item (learning from a person: an interview, shadowing, feedback).
+   6. **Activity sequence:** the seven-step arc: Frame & baseline → Input → Observe → Small experiment → Visible stretch → Reflect & integrate → Re-rate & decide. Mark low-stakes vs. visible-stretch, and tag each step's mode: steps 3–5 experience, step 2 education, steps 1, 6, and 7 exposure. End with a short **The mix (70-20-10)** note that names one exposure activity beyond the coach. See the 70-20-10 section of `01-coach-guide.md`.
    7. **Coach talking points:** 4–6 prompts specific to coaching *this* dimension, including the hard conversation.
    8. **Connected dimensions:** the web threads: which dimensions share skills with this one, and how.
 3. Name specific sources, and mark any you haven't yet confirmed with `[verify]`. Never fabricate a title, author, or URL; describe the topic and type if you don't have a confident source.

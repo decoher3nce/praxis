@@ -11,18 +11,20 @@
 - *Higher:* Reads the shift early and re-plans without defensiveness. Brings people the reasoning and a real role in shaping the response. Acknowledges the human cost openly. Stays a stable reference point while the work flexes: adaptable, not unmoored.
 
 **Learning path.**
-- *Read:* William Bridges, *Managing Transitions*: the distinction between change (situational) and transition (the psychological process people go through), and its three phases, ending, neutral zone, and new beginning.
-- *Watch:* Eddie Obeng, "Smart failure for a fast-changing world" (TEDGlobal 2012): leading when the world changes faster than we can learn, and why it takes a culture of "smart failure."
-- *Other:* talk to someone who led a team through a hard change about what they'd do differently.
+- *Read (education):* William Bridges, *Managing Transitions*: the distinction between change (situational) and transition (the psychological process people go through), and its three phases, ending, neutral zone, and new beginning.
+- *Watch (education):* Eddie Obeng, "Smart failure for a fast-changing world" (TEDGlobal 2012): leading when the world changes faster than we can learn, and why it takes a culture of "smart failure."
+- *Other (exposure):* talk to someone who led a team through a hard change about what they'd do differently.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Name a current or recent change your team faced, and honestly assess how well you brought them through it. *(low-stakes)*
-2. **Input.** Engage the learning path; pick one lens (communicate the why, give agency, manage the transition). *(low-stakes)*
-3. **Observe.** For a week, notice your own reaction when plans shift: do you flex or dig in? And watch how your team takes its cue from you. *(low-stakes)*
-4. **Small experiment.** On one small change, communicate the *why* before the *what*, and ask the team for input on the *how*. *(low-stakes)*
-5. **Visible stretch.** Lead the team through one real, consequential change: re-plan openly, explain the reasoning, give people genuine agency, and name the hard parts honestly. *(visible stretch)*
-6. **Reflect & integrate.** From memory: where did you adapt vs. cling, and how did the team respond to how you handled it? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Name a current or recent change your team faced, and honestly assess how well you brought them through it. *(low-stakes · exposure)*
+2. **Input.** Engage the learning path; pick one lens (communicate the why, give agency, manage the transition). *(low-stakes · education)*
+3. **Observe.** For a week, notice your own reaction when plans shift: do you flex or dig in? And watch how your team takes its cue from you. *(low-stakes · experience)*
+4. **Small experiment.** On one small change, communicate the *why* before the *what*, and ask the team for input on the *how*. *(low-stakes · experience)*
+5. **Visible stretch.** Lead the team through one real, consequential change: re-plan openly, explain the reasoning, give people genuine agency, and name the hard parts honestly. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: where did you adapt vs. cling, and how did the team respond to how you handled it? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: after step 5, ask two people on the team what helped them through the change and what didn't. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "The facts changed. Is the plan still right, or are you holding it because it's yours?"

@@ -11,18 +11,20 @@
 - *Higher:* Consistent and reliable, so trust compounds. Treats an early-surfaced problem as a gift and says so. Models fallibility by owning their own mistakes first. Explicitly invites the dissenting view. Runs blameless reviews focused on the system, not the scapegoat.
 
 **Learning path.**
-- *Read:* Charles Duhigg, "What Google Learned From Its Quest to Build the Perfect Team," *The New York Times Magazine* (February 2016): Project Aristotle's finding that psychological safety mattered more than who was on the team.
-- *Watch:* Amy Edmondson, "Building a psychologically safe workplace" (TEDxHGSE, 2014): what psychological safety is, why people stay silent, and why it has to pair with accountability.
-- *Other:* ask your team (anonymously if needed) "what's something you've hesitated to tell me?" and respond in a way that proves it was safe.
+- *Read (education):* Charles Duhigg, "What Google Learned From Its Quest to Build the Perfect Team," *The New York Times Magazine* (February 2016): Project Aristotle's finding that psychological safety mattered more than who was on the team.
+- *Watch (education):* Amy Edmondson, "Building a psychologically safe workplace" (TEDxHGSE, 2014): what psychological safety is, why people stay silent, and why it has to pair with accountability.
+- *Other (exposure):* ask your team (anonymously if needed) "what's something you've hesitated to tell me?" and respond in a way that proves it was safe.
 
 **Activity sequence.**
-1. **Frame & baseline.** Self-rate 1–5. Ask honestly: when did someone last bring you bad news early, and how did you react? *(low-stakes)*
-2. **Input.** Engage the learning path; pick one safety behavior to practice. *(low-stakes)*
-3. **Observe.** For a week, watch your own reactions to problems and disagreement. Does your face and tone invite more, or shut it down? *(low-stakes)*
-4. **Small experiment.** In one meeting, explicitly invite the dissenting view ("what am I missing? who sees this differently?") and visibly thank whoever speaks up. *(low-stakes)*
-5. **Visible stretch.** Run one failure or anomaly review as genuinely blameless (whole conversation on the system and the learning, not who), or admit one of your own mistakes openly to the team. *(visible stretch)*
-6. **Reflect & integrate.** From memory: did people raise more or less after your responses this cycle? Where did you accidentally punish candor? Debrief with coach. *(retrieval)*
-7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate.
+1. **Frame & baseline.** Self-rate 1–5. Ask honestly: when did someone last bring you bad news early, and how did you react? *(low-stakes · exposure)*
+2. **Input.** Engage the learning path; pick one safety behavior to practice. *(low-stakes · education)*
+3. **Observe.** For a week, watch your own reactions to problems and disagreement. Does your face and tone invite more, or shut it down? *(low-stakes · experience)*
+4. **Small experiment.** In one meeting, explicitly invite the dissenting view ("what am I missing? who sees this differently?") and visibly thank whoever speaks up. *(low-stakes · experience)*
+5. **Visible stretch.** Run one failure or anomaly review as genuinely blameless (whole conversation on the system and the learning, not who), or admit one of your own mistakes openly to the team. *(visible stretch · experience)*
+6. **Reflect & integrate.** From memory: did people raise more or less after your responses this cycle? Where did you accidentally punish candor? Debrief with coach. *(retrieval · exposure)*
+7. **Re-rate & decide.** Both rate; plot on the 2×2; decide continue / tweak / swap / graduate. *(exposure)*
+
+**The mix (70-20-10).** Most of the cycle's time belongs in steps 3–5, on live work (about 70%). Exposure, the people part (about 20%), is the learning path's exposure item, your coaching check-ins, and one more: ask someone who sat in your step 5 review whether it actually felt blameless, and believe the answer. Keep the reading and talk in step 2 to about 10%: an evening or two, not the plan. See `01-coach-guide.md`.
 
 **Coach talking points (this dimension).**
 - "When something goes wrong, what does your team see on your face first, curiosity or blame?"
